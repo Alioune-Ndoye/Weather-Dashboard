@@ -1,7 +1,7 @@
 # 🌤️ WeatherApi - Your Ultimate Weather Companion
 
 ## 📌 Overview
-SunChaser is a modern weather application that provides real-time weather data, an extended 5-day forecast, and an intuitive user experience. With seamless search functionality and responsive design, SunChaser ensures you stay updated with the latest weather conditions anytime, anywhere.
+Weather-Dashboard is a modern weather application that provides real-time weather data, an extended 5-day forecast, and an intuitive user experience. With seamless search functionality and responsive design, SunChaser ensures you stay updated with the latest weather conditions anytime, anywhere.
 
 ---
 
@@ -37,8 +37,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HPOGFD/sunChaser.git
-   cd sunChaser
+  git@github.com:Alioune-Ndoye/Weather-Dashboard.git
+  cd weather-Dashboard
    ```
 2. Install dependencies:
    ```bash
@@ -135,5 +135,5 @@ Special thanks to **[OpenWeatherMap](https://openweathermap.org/)** for providin
 
 ---
 
-### 🌟 Stay informed. Stay prepared. Explore SunChaser today! 🌟
+### 🌟 Stay informed. Stay prepared. Explore today! 🌟
 
