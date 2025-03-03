@@ -1,4 +1,4 @@
-# 🌤️ WeatherApi - Your Ultimate Weather Companion
+# 🌤️ Weather-Dashbord - Your Ultimate Weather Companion
 
 ## 📌 Overview
 Weather-Dashboard is a modern weather application that provides real-time weather data, an extended 5-day forecast, and an intuitive user experience. With seamless search functionality and responsive design, SunChaser ensures you stay updated with the latest weather conditions anytime, anywhere.
